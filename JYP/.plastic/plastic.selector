@@ -1,0 +1,4 @@
+repository "JYP/Capstone25-1@14569629294611@cloud"
+  path "/"
+    br "/main"
+    co "/main"
